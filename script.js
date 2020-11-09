@@ -26,7 +26,7 @@ const seconds=document.querySelector("#seconds");
 
 console.log(seconds);
 
-const words=["echo","siblings","symptoms","definition","instructions","independent","extrovert","introvert"];
+const words=["echo","equality","dictionary","wounded","abduce","abhominable","galactoscope","Fadden","objectivism","relationship","sacristy","duplicitous","siblings","symptoms","definition","instructions","independent","extrovert","introvert"];
 
 //Initialize the game
 function init(){
